@@ -1,0 +1,10 @@
+.dark {
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
+.light {
+    color: black;
+    background-color: lightgrey;
+    border: 1px solid black;
+}

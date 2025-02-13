@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./style.css">
-</head>
-<body>
-     <input type="checkbox" id="dark_mode" name="dark_mode">
-    <label for="dark_mode">dark mode</label>
-    <div id="myElement">
-        <p>Hello World</p>
-    </div>
-    
-</body>
-</html>
-
-
-
-
 <?php
-$age= 22;
 
-if ($age >= 18) {
-    echo "Vous êtes un adulte"
-    } else {
-        echo "Vous êtes mineur"
-        }
-
-       $magnitude = 8
+$magnitude = 8
 
        switch ($magnitude) {
         case 1:
@@ -62,25 +34,7 @@ if ($age >= 18) {
                                             echo "Magnitude inconnue"
                                             break;
                                             }
+                                            ?>
 
-
-
-
-                $number = 7;
-                if ($number % 2 == 0) {
-                    echo "Le nombre est pair";
-                    } else {
-                        echo "Le nombre est impair";
-                        }
-
-
-                                            
-
-
-
-
-                
-
-        ?>
 
 
